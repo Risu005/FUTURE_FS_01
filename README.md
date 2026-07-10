@@ -8,8 +8,7 @@ A modern, interactive personal portfolio website built with **HTML, CSS, JavaScr
 
 ## Live Demo
 
-[View Live Portfolio](https://your-username.github.io/FUTURE_FS_01)
-*(Update after deployment)*
+[View Live Portfolio](https://risu005.github.io/FUTURE_FS_01)
 
 ---
 
